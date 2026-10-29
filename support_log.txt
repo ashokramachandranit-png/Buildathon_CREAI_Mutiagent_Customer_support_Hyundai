@@ -1,0 +1,19 @@
+Query: can you explain about road side assistance policy ?
+
+Final Output:
+The log file `support_log.txt` has been successfully updated with the relevant entries. Below is the structured breakdown containing both answers:
+
+---
+
+**User Query:**
+What services are covered under Hyundai's Roadside Assistance policy?
+
+**Answer 1 (from Hyundai RAG Assistant):**
+Hyundai provides 24x7 complimentary Roadside Assistance (RSA) during the basic warranty period. The services covered include towing, flat tire replacement, dead battery jump-start, key lock-out assistance, and fuel delivery up to 5 litres. Customers can reach the RSA service through the toll-free number 1800-102-4645.
+
+**Answer 2 (from Web Search Assistant):**
+Hyundai's Roadside Assistance (RSA) policy provides a comprehensive safety net for vehicle owners, ensuring help is available 24/7 during the basic warranty period. The services covered include towing, flat tire replacement, dead battery jump-start, key lock-out assistance, and fuel delivery up to 5 liters. Customers can access this service by calling the toll-free number 1800-102-4645.
+
+--- 
+
+This summary captures the original user query along with both answers, ensuring clarity and completeness.
